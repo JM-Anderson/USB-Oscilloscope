@@ -20,5 +20,7 @@ Project\ Outputs*/
 # Access lock file for dbLib sources
 **/*.ldb
 
+# SVN
+**/.svn/*
 
 # End of https://www.gitignore.io/api/altium
